@@ -1,0 +1,1 @@
+#include <stdio.h>int main(void){int X=10;int Y=0;while (X!=0){Y++; X--;printf("Y=%d\n", Y);}return 0;}
